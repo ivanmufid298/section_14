@@ -1,4 +1,4 @@
-# section_14
+# vue-komponen
 
 ## Project setup
 ```
